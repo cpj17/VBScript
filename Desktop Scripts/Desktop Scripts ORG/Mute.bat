@@ -1,0 +1,1 @@
+"D:\WorkFolder\PRAVEEN JEEVA\Utilities_Apps\Nircmd\nircmdc.exe" mutesysvolume 1
