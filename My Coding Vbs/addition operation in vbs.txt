@@ -1,0 +1,30 @@
+Addition of two numbers in vbs
+
+1.Using cdbl keyword
+
+a=cdbl(inputbox("enter a:"))
+b=cdbl(inputbox("enter a:"))
+sum=a+b
+msgbox sum
+-------------------------------------
+2.Using cint keyword
+
+a=cint(inputbox("enter a"))
+b=cint(inputbox("enter b"))
+c=a+b
+msgbox c
+---------------------------------
+
+the difference between cdbl nd cint
+
+If we use cdbl keyword we can add integers and floating points number
+Ex:-
+ 2.2+2=4.2
+
+If we use cint keyword we can type any numbers like int and float but output is only will display integer value
+If we use cint it roundoff the given numbers like the point value is greater or less than 5 it take whole number
+Ex:-
+ 2.3=2
+ 2.7=3
+ 2.7+3=6
+ 2.2+3=5
